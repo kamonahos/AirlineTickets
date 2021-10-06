@@ -100,7 +100,7 @@ public class HomeScreen {
                     public void actionPerformed(ActionEvent e) {
 
                         try {
-                            BufferedWriter bw = new BufferedWriter(new FileWriter("asdf.txt", true));
+                            BufferedWriter bw = new BufferedWriter(new FileWriter("Tickets.txt", true));
                             bw.append(ticketId.getText() + " ");
                             bw.append(issueDate.getText() + " ");
                             bw.append(clientName.getText() + " ");
@@ -195,7 +195,7 @@ public class HomeScreen {
                 mydialog.setSize(new Dimension(400, 100));
                 mydialog.setTitle("About Page");
                 JLabel AboutLabel;
-                AboutLabel = new JLabel("<html><p>Project Name: airlinereservationsystem</p><p> Programmer Name:Christos Kamonachos</p><p> AM:131080</p><p> Project Expiration Date:13/06/2021</p>");
+                AboutLabel = new JLabel("<html><p>Project Name: airlinereservationsystem</p><p> Programmer Name:Christos Kamonachos</p><p> AM:131070</p><p> Project Expiration Date:13/06/2021</p>");
 
                 ImageIcon imageIcon = new ImageIcon("Screenshot_14.png");
                 JLabel label = new JLabel(imageIcon);

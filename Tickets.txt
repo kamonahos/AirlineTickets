@@ -1,0 +1,10 @@
+KLN127 19/06/2021 Kamonachos Christos To Rome 50$ Y 5% 1 10kg
+SDA356 28/07/2021 John Liam To Athens 80$ N 0% 1 15kg
+ALK123 15/07/2021 Papadopoulos Giorgos To dubai 150$ Y 5% 1 15kg
+JTU236 2/07/2021 John Mein To Germany 180$ N 0% 1 17kg
+KWR109 9/12/2021 George Kalis To Balli 350$ Y 5% 1 10kg
+RTY677 28/09/2021 Jacob Arnis To Athens 120$ Y 5% 2 30kg
+KAQ009 19/09/2021 Renia Afiallis To Paris 85$ Y 5% 1 7kg
+RTY123 01/01/2022 Kefalas Lamdas To Italy 20$ N 0% 1 2kg
+QWE000 02/02/2022 George Karamidhs To Poland 120$ Y 5% 2 40kg
+AAA789 14/06/2021 Aggelos Gewrgoulas To L.A 1$ N 0% 1 19kg
